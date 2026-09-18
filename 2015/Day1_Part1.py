@@ -1,4 +1,4 @@
-input = open("Day1_input.txt")
+input = open("2015/Day1_input.txt")
 input = input.read()
 
 
